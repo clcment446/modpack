@@ -1,0 +1,7 @@
+
+["Configs for Vampirism Covered Armor"]
+	#Whitelist for armors to be considered protected against the Sun (ex.: ["minecraft:diamond_boots", "modid:item_id"])
+	sunprotected_armor = []
+	#If sunprotected_armor should be inverted to blacklist list
+	sunprotected_armor_to_opposite = false
+
