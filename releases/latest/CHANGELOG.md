@@ -3,7 +3,9 @@
 
 - restriction on summoning type spells.
 - tweaked mana regeneration.
+- added server and client compat.
 
 ## Removed
 
 - removed conflicting mods.
+- removed *most* client side mods. Use at your own risks.
